@@ -8,7 +8,7 @@
 - 😄 Sou mulher
 - ⚡ Gosto de desenhar meus própios sprites
 - 
-    [parappa](https://images.app.goo.gl/oHvPtGJLCvJn4Xka8)
+    [parappa](https://media4.giphy.com/media/14fcIgLQxz5jOM/giphy.gif)
 
 <!---
 Borchardt-Ana/Borchardt-Ana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
