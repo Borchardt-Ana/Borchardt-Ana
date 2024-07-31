@@ -1,12 +1,12 @@
-# Minha introdução
+# Minha introdução 🔥💯
 
-- 👋 Oii, eu sou a **Ana Clara Borchardt**
-- 👀 *Gosto de* jogos indie, mpb, metal e moda
-- 🌱 No momento estou aprendendo a programar em java script
-- 💞️ Não colaboro com **ninguem**, sou um lobo alpha
-- 📫 **Não** me contate
-- 😄 Sou mulher
-- ⚡ Gosto de desenhar meus própios sprites
+- :person_bald: Oii, eu sou a **Ana Clara Borchardt**
+- :person_bald: *Gosto de* jogos indie, mpb, metal e moda
+- :person_bald: No momento estou aprendendo a programar em java script
+- :person_bald: Não colaboro com **ninguem**, sou um lobo alpha
+- :person_bald: **Não** me contate
+- :person_bald: Sou mulher
+- :person_bald: Gosto de desenhar meus própios sprites
 - 
     ![parappa](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ0bDd5N2Y4cGhpbWt1cnBtMHZnM3FvOGNid2FqNmpoc2Z3N3kyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14fcIgLQxz5jOM/200.webp)
 
